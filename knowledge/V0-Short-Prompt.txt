@@ -1,0 +1,26 @@
+Build Awwwards-winning premium casual restaurant website for Cilantro Mexican Grill Moneta VA - Family-owned since Valentine's Day 2023 Jose Irma Andrea Perez from Chesapeake moved 5yrs before opening mom Irma named designed menu staff 12 like family. Address 1035 Mercantile St Suite 102 Moneta VA 24121 near Moneta Library tiny strip mall parking tight busy nights but worth it! Phone 540-297-3616 Hours Closed Monday Tue-Thu/Sun 11:30-9 Fri-Sat 11:30-10 Happy Hour 4-7pm. No delivery takeout phone only catering yes.
+
+Signature HERO dishes: California Burrito shrimp chicken steak avocado rice spices cheese dip show-stopper, Pina Rellena grilled steak chicken pineapple tomatoes onions bell peppers melted cheese in half pineapple, Molcajete large black pot overflowing chicken ribeye steak shrimp pork chop sausage cactus onions jalapeno stuffed peppers rice beans sour cream salad tortillas - conversation piece, Fresh Guacamole tableside warm homemade chips ranch dip, Black Raspberry Margarita frozen house deep pink drinks HUGE.
+
+Brand Family Love Freshly Made contemporary subtle green #2E7D32 hardwood floors cozy fireplace tasteful bright clean light airy no tacky murals home away from home. Best Mexican by lake 4.5 Yelp 36 Google 4.6 225+ Health 98 86% FB recommend.
+
+Colors #2E7D32 primary green cream #FFFBF2 bg 60% white surfaces 20% green 10% terracotta #D87C45 secondary 5% berry #8E2F5B yellow #F4C542 accent 5% charcoal #1A1A1A text 16.5:1 AAA green on cream 5.2:1 AA. Radius sm 8px md 12px lg 16px xl 24px full 9999px Shadows soft md 0 4px 20px lg 0 8px 30px. Fonts Poppins Bold heading Inter body H1 clamp 36-48px tight -2% Body 16px 1.6. Motion 150-250-400ms expo.
+
+Trust bar Google 4.6 225+ Yelp 4.5 Health 98 Family Since Valentine 2023 Outdoor Patio + Beautiful Bar Wheelchair Accessible.
+
+Pages Home hero Molcajete video sizzle loop muted poster <100KB 80vh slight vignette for white CTA text + trust bar 80px + signature 3 cards CA Burrito Pina Rellena Molcajete + fresh theater tableside guac 50/50 video + story teaser Jose Irma Andrea Chesapeake + menu preview 24 sides + reviews carousel best by lake + hours alert Monday Closed red berry BG #FDF2F8 border #8E2F5B copy Closed Mondays - Our family rests so we can serve yours better Tue-Sun + map Google Place ID ChIJc4TWEQxHTYgRUWyKgtN78F8 near Moneta Library parking tiny tight worth it + catering teaser + footer dark #1A1A1A cream text NAP hours newsletter.
+
+Menu /menu sticky category pills search + vegetarian filter 8+ dishes Fajitas Vegetarianas Black Bean Quesadilla etc Popular badge pineapple yellow accordion Appetizers Soups Salads Nachos Enchiladas 8 styles Supremas Verdes Bandera Poblanas Blancas Rancheras Suizas Seafood Make-your-own-combo 2-3 taco enchilada burrito quesadilla tostada tamal chile relleno Tacos street style cilantro onions al pastor carne asada chicken+chorizo Burritos Fajitas Quesadillas Chimichangas Burgers Mexican Burger bacon grilled onions pineapple jalapeno fries Basic Burger Chicken Sandwich must-try Sides 24 Desserts fried ice cream sopapilla flan cheesecake churros Beverages Black Raspberry Margarita Kids Menu. Do not invent dish names beyond listed - say 24 sides.
+
+Visit /visit hours table Monday Closed prominent + Happy Hour 4-7pm + Summer Break June29-July6 example + Address copy button Coordinates 37.179379 -79.621713 Map embed Place ID Landmark Near Moneta Library Parking tiny strip mall tight worth it Accessibility wheelchair Pets allowed patio Phone Email Form.
+
+Gallery masonry lightbox Food Interior Exterior Lifestyle Staff Drinks Yelp 34.
+
+Components Button primary green #2E7D32 cream text hover #1B5E20 lift 2px shadow md->lg 200ms expo secondary outline tertiary text ghost white sizes sm 36 md 48 lg 56 states normal hover active disabled focus ring 2px green responsive mobile full-width sticky bottom accessibility 48px min tap Badge Popular yellow charcoal Vegetarian avocado Open green dot pulse Closed Monday berry light Health Rating. Card Dish image 4:3 rounded 16px scale 1.03 hover Content 24px Header name 18px Price right tabular Badges Description 14px 80% hover shadow lg lift 4px Signature larger 16:9 Review stars Quote Name Yelp Hours table Monday Closed red Alert Banner light berry #FDF2F8. Navbar transparent blur 12px over hero to cream solid scroll. Footer dark. Hero. Filter Pills. Input 48px. Modal. Map. Sticky Bottom CTA Mobile <768px fixed bottom z101 height 72px bg white 2 buttons 50/50 Call primary green + Get Directions outline safe area.
+
+Tech Next.js 14 App Router TypeScript Tailwind next/image WebP AVIF srcset next/font Poppins Inter Framer Motion Lucide 2px stroke rounded. Performance LCP <2.5s Lighthouse >=90. SEO Schema Restaurant LocalBusiness AggregateRating OpeningHours Menu MenuItem FAQPage BreadcrumbList ImageObject. Accessibility WCAG AA skip link focus visible green.
+
+Forbidden sombrero dark cantina pure red #FF0000 tacky murals neon HDR plastic floating ingredients.
+
+Build full site production-grade Home About Menu Visit Gallery Catering Contact FAQ Privacy Terms 404 warm family tone Oops maybe on summer break June29-July6 like us? Come back Tue-Sun. Bright clean lake house Sweetgreen Awwwards.
+

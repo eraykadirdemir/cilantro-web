@@ -1,0 +1,30 @@
+# Next.js + Vercel
+node_modules
+.next
+out
+dist
+.env
+.env.local
+.env.production
+.vercel
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode
+.idea
+
+# Images optimization cache
+.cache
+
+# Tokens build
+tokens/build
+
+# Coverage
+coverage
